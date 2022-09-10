@@ -3,7 +3,7 @@
  * @autor Sergej Kel
  *@ 5.9.2022
  @date 9.9.2022
- class JavaBasic1Hw {
+class JavaBasic1Hw {
     public static void main(String[] args) {
         // taks 1
         int a=2
