@@ -1,4 +1,4 @@
-/ **
+/**
  *
  * Java Basic. Home Work #!1
  * @autor Sergej Kel
@@ -8,31 +8,31 @@
 class JavaBasic1Hw {
     public static void main(String[] args) {
         // taks 1
-        int a = 2
-        int a = 4
+        int a = 2;
+        int b = 4;
         //int sum = a * b
 
         // task 2
-        int a = 3
-        int b = 5
+        a = 3;
+        b = 5;
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
         System.out.println(a/b);
 
         // task 3
-        int[] a = new int [5];
-        a[0] = 2
-        a[1] = 5
-        a[2] = 6
-        a[3] = 7
-        a[4] = 8
+        int[] intArray = new int [5];
+        intArray[0] = 2;
+        intArray[1] = 5;
+        intArray[2] = 6;
+        intArray[3] = 7;
+        intArray[4] = 8;
 
-        System.out.println(a[0]);
-        System.out.println(a[1]);
-        System.out.println(a[2]);
-        System.out.println(a[3]);
-        System.out.println(a[4]);
+        System.out.println(intArray[0]);
+        System.out.println(intArray[1]);
+        System.out.println(intArray[2]);
+        System.out.println(intArray[3]);
+        System.out.println(intArray[4]);
         }
 }
 
