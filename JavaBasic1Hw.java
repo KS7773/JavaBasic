@@ -10,7 +10,8 @@ class JavaBasic1Hw {
         // taks 1
         int a = 2;
         int b = 4;
-        //int sum = a * b
+        int sum = a * b;
+        System.out.println(sum);
 
         // task 2
         a = 3;
