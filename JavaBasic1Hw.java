@@ -10,8 +10,10 @@ class JavaBasic1Hw {
         // taks 1
         int a = 2;
         int b = 4;
-        int sum = a * b;
-        System.out.println(sum);
+        int p= (a +b) *2;
+        int s = a * b;
+        System.out.println("Perimeter = " + p);
+        System.out.println("Area = " + s);
 
         // task 2
         a = 3;
