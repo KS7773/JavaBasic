@@ -2,8 +2,8 @@
  *
  * Java Basic. Home Work #!1
  * @autor Sergej Kel
- * @ 5.9.2022
- @date 9.9.2022
+ * @todo 5.9.2022
+ * @date 9.9.2022
  */
 class JavaBasic1Hw {
     public static void main(String[] args) {
@@ -19,7 +19,7 @@ class JavaBasic1Hw {
         System.out.println(a+b);
         System.out.println(a-b);
         System.out.println(a*b);
-        System.out.println(a/b);
+        System.out.println((float)a/b);
 
         // task 3
         int[] intArray = new int [5];
@@ -34,7 +34,7 @@ class JavaBasic1Hw {
         System.out.println(intArray[2]);
         System.out.println(intArray[3]);
         System.out.println(intArray[4]);
-        }
+    }
 }
 
 
