@@ -1,6 +1,6 @@
 /**
  *
- * Java Basic. Home Work #!2
+ * Java Basic. Home Work #2
  * @autor Sergej Kel
  * @todo 7.9.2022
  * @date 15.9.2022
@@ -38,11 +38,11 @@ class JavaBasic2Hw {
         String result ="";
         if (temperature < 0 ) {
             result = "It's frost";
-        } else if (temperature >= 0 && temperature <= 18) {
+        } else if (temperature > = 0 && temperature < = 18) {
             result ="It's cold";
-        } else if (temperature >= 19 && temperature <= 28) {
+        } else if (temperature > = 19 && temperature < = 28) {
             result= "It's warm";
-        } else if (temperature >= 29) {
+        } else if (temperature > = 29) {
             result = "It's hot";
         }
         return result;
