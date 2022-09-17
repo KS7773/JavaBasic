@@ -6,7 +6,7 @@
  * @date 15.9.2022
  */
 class JavaBasic3Hw {
-        public static void main(String[] args) {
+    public static void main(String[] args) {
         // task 1
         int[] array = {51, 17, 22, -4, 0, 12};
         printArray(array);
