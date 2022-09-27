@@ -1,6 +1,6 @@
 /**
  *
- * Java Basic. Home Work #5
+ * Java Basic. Home Work #6
  * @autor Sergej Kel
  * @todo 21.9.2022
  * @date 27.9.2022
